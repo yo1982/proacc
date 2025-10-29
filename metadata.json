@@ -1,0 +1,5 @@
+{
+  "name": "ProAcct Dashboard",
+  "description": "A modern, integrated dashboard for a professional accounting program, demonstrating advanced React and UI/UX skills. It includes features like theme switching, multilingual support (En/Ar), and an AI-powered financial assistant using the Gemini API.",
+  "requestFramePermissions": []
+}
